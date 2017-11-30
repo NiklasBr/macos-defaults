@@ -19,3 +19,6 @@ PS1="\h \$ "
 # For when you forget the sudo and other things
 # Requires thefuck (installed via Brew)
 eval $(thefuck --alias fuck)
+
+# Always use verbose and fully expressive ls as ll
+alias ll="ls -lahBG"
