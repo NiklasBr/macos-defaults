@@ -22,3 +22,6 @@ eval $(thefuck --alias fuck)
 
 # Always use verbose and fully expressive ls as ll
 alias ll="ls -lahBG"
+
+# Quick cache flush
+alias dnsflush="sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder; echo -e DNS cache flushed;"
