@@ -1,4 +1,3 @@
-
 export VISUAL=nano
 export EDITOR="$VISUAL"
 export LC_CTYPE=C 
