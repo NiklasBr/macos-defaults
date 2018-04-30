@@ -5,9 +5,9 @@ This is a collection of default settings such as colour schemes, settings, and c
 ## Usage
 
  1. [Install Brew](https://brew.sh).
- 2. [Install thefuck](http://formulae.brew.sh/formula/thefuck).
- 3. [Install Bash 4.4](http://formulae.brew.sh/formula/bash).
- 4. Add `/usr/local/bin/bash` to the file `/private/etc/shells`.
+ 2. Install packages with `brew install $(cat brews.txt)`.
+ 3. Install `brew tap caskroom/fonts`.
+ 4. Install apps with `brew install $(cat casks.txt)`.
 
 ### Terminal
 
