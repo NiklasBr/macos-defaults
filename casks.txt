@@ -1,3 +1,6 @@
+1password
+aerial
+backblaze
 bbedit
 firefox
 flux
@@ -12,6 +15,7 @@ imageoptim
 keybase
 malwarebytes
 sequel-pro
+subler
 transmit
 virtualbox
 visual-studio-code
